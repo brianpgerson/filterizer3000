@@ -29,6 +29,12 @@ h1 {
     border: 1px solid black;
 }
 
+textarea {
+    background-color: rgb(40,40,40,.8);
+    color: aliceblue;
+    border-color: aliceblue;
+}
+
 label {
     font-size: 36px;
 }
